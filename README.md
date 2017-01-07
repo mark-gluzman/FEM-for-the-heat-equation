@@ -1,2 +1,2 @@
-# FEM-for-heat-equation
-The finite elements method for 3d heat equation
+# FEM-for-the-heat-equation
+The finite elements method for the 3d heat equation
